@@ -8,7 +8,7 @@ to Heroku. Serves an example html file at the root directory.
 
 Fire up an nginx proxy on [Heroku](https://www.heroku.com/) with a single click:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mustofaku/hera)
 
 ## Manual deployment
 
